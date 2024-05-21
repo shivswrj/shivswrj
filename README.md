@@ -5,6 +5,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivswrj&label=Profile%20views&color=0e75b6&style=flat" alt="shivswrj" /> </p>
 
+<h3> 💻 About Me </h3>
+
+- 🌱 **web developer**
+- 🌱 **Full Stack developer**
+- ✨ **Python Developer**
+- 💻 **3 Star @ CodeChef**
+- **I’m looking to collaborate on simple projects**
+- 💻 **Leetcode Rating 1656 (TOP - 15.91%)**
+- **Exploring new technologies and developing software solutions and quick hacks**
+- **Watching Sci-Fi movies and Web-Shows**
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Language : C/C++ | Python (basic)
+- 🌐 &nbsp; Frontend : HTML | CSS | JavaScript
+- 🌐 &nbsp; Backend : Node Js | Express Js | API
+- 🔧 &nbsp; Framework : React Js
+- ✨ &nbsp; ML : NumPy | Pandas
+- 📊 &nbsp; DataBase : MySQL | MongoDB(Atlas)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/_shivamswaraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shivamswaraj_" height="30" width="40" /></a>
