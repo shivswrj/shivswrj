@@ -7,21 +7,17 @@
 
 <h3> 💻 About Me </h3>
 
-- 🌱 **web developer**
+- 🌱 **Web developer**
 - 🌱 **Full Stack developer**
-- ✨ **Python Developer**
-- 💻 **3 Star @ CodeChef**
 - **I’m looking to collaborate on simple projects**
-- 💻 **Leetcode Rating 1656 (TOP - 15.91%)**
 - **Exploring new technologies and developing software solutions and quick hacks**
-- **Watching Sci-Fi movies and Web-Shows**
+- **Playing Cricket and Listening to Music**
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Language : C/C++ | Python (basic)
 - 🌐 &nbsp; Frontend : HTML | CSS | JavaScript
 - 🌐 &nbsp; Backend : Node Js | Express Js | API
 - 🔧 &nbsp; Framework : React Js
-- ✨ &nbsp; ML : NumPy | Pandas
 - 📊 &nbsp; DataBase : MySQL | MongoDB(Atlas)
 
 <h3 align="left">Connect with me:</h3>
